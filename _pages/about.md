@@ -7,7 +7,7 @@ permalink: / # indicates this page is the [Home] page
 subtitle: Puberty, Environment, and Adolescent Resilience
 
 profile:
-  align: left
+  align: right
   image: lab_logo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
