@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-03-24
+title: Sen Liu's first-author paper got published!
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Congratulations to **Sen Liu** on publishing his first-author paper in the *Journal of Child Psychology and Psychiatry* examining sexual and gender minority identity, peer victimization, and suicidality among adolescents using the ABCD Study.
