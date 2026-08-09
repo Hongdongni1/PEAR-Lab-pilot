@@ -187,7 +187,7 @@ nav_order: 2
 
   <!-- Hao Zhang -->
   <div style="width: 180px; text-align: center;">
-    <img src="{{ '/assets/img/hao_zheng.jpg' | relative_url }}"
+    <img src="{{ '/assets/img/hao_zhang.jpg' | relative_url }}"
          style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;"
          alt="Hao Zhang">
     <h4 style="font-size: 1em; margin-top: 10px;">Hao Zhang (张好)</h4>
@@ -309,9 +309,9 @@ nav_order: 2
 ### 2024 Graduates
 <div style="display: flex; flex-wrap: wrap; gap: 35px; margin-bottom: 40px;">
 
-  <!-- Zhiian Zhang -->
+  <!-- Zhiqian Zhang -->
   <div style="width: 180px; text-align: center;">
-    <img src="{{ '/assets/img/zhiian_zhang.jpg' | relative_url }}"
+    <img src="{{ '/assets/img/zhiqian_zhang.jpg' | relative_url }}"
          style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;"
          alt="Zhiqian Zhang">
     <h4 style="font-size: 1em; margin-top: 10px;">Zhiqian Zhang (张芷骞)</h4>
