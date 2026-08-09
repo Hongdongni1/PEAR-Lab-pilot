@@ -12,6 +12,16 @@ nav_order: 3
 
 {% include bib_search.liquid %}
 
+<p>
+
+† indicates current or former student author under my mentorship;
+
+* indicates shared first-authorship;
+
+# indicates corresponding author.
+
+</p>
+
 <div class="publications">
 
 {% bibliography %}
