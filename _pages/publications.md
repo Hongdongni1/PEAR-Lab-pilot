@@ -14,7 +14,7 @@ nav_order: 3
 
 <p>
 
-† indicates current or former student author under my mentorship;
+† indicates current or former student author under Dr. Li Niu's mentorship;
 
 * indicates shared first-authorship;
 
