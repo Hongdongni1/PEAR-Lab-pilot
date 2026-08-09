@@ -39,7 +39,7 @@ nav_order: 2
     <img src="{{ '/assets/img/jiayi_yang.jpg' | relative_url }}"
          style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%"
          alt="Jiayi Yang">
-    <h4 style="margin-top: 12px; margin-bottom: 0;">Jiayi Yang (杨嘉翌), M.A.</h4>
+    <h4 style="font-size: 1em; margin-top: 10px;">Jiayi Yang (杨嘉翌), M.A.</h4>
   </div>
   <div style="flex: 1;">
     <p>
@@ -54,7 +54,7 @@ nav_order: 2
     <img src="{{ '/assets/img/lisha_yu.jpg' | relative_url }}"
          style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%"
          alt="Jiayi Yang">
-        <h3>Jiayi Yang (杨嘉翌), M.A.</h3>
+        <h4 style="font-size: 0.9em; margin-top: 10px;">Jiayi Yang (杨嘉翌), M.A.</h4>
   </div>
   <div style="flex: 1;">
     <p>
