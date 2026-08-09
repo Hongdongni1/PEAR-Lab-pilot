@@ -34,6 +34,6 @@ Please email Dr. Li Niu at li.niu@bnu.edu.cn with:
 
 <div style="margin-top: 50px; text-align: center;">
   <img src="{{ '/assets/img/contact_us.jpg' | relative_url }}"
-       style="width: 100%; max-width: 900px; height: auto;"
+       style="width: 100%; max-width: 750px; height: auto;"
        alt="Contact Us">
 </div>
