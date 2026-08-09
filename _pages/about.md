@@ -5,6 +5,8 @@ layout: about
 title: Home
 permalink: / # indicates this page is the [Home] page
 subtitle: Puberty, Environment, and Adolescent Resilience
+nav: true
+nav_order: 1
 
 profile:
   align: right
