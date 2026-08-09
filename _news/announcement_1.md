@@ -10,6 +10,6 @@ PEAR Lab students shared their latest research at the 2026 International Society
 
 <div style="margin-top: 20px; text-align: center;">
   <img src="{{ '/assets/img/issbd.jpg' | relative_url }}"
-       style="width: 100%; max-width: 900px; height: auto; border-radius: 8px;"
+       style="width: 50%; max-width: 500px; height: auto; border-radius: 8px;"
        alt="ISSBD Presentation">
 </div>
