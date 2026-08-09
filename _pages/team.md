@@ -58,7 +58,7 @@ nav_order: 2
   </div>
   <div style="flex: 1;">
     <p>
-      Qing Zhao is a first-year Ph.D. student in the direct-entry doctoral program at Beijing Normal University. She received a B.S. in Nursing and a B.B.A. in Business Administration from Shandong University in 2025. Her research broadly focuses on developmental mechanisms underlying adolescent mental health, with a particular interest in how biological processes and environmental contexts interact to shape emotional development.
+      Qing Zhao is a second-year Ph.D. student in the direct-entry doctoral program at Beijing Normal University. She received a B.S. in Nursing and a B.B.A. in Business Administration from Shandong University in 2025. Her research broadly focuses on developmental mechanisms underlying adolescent mental health, with a particular interest in how biological processes and environmental contexts interact to shape emotional development.
     </p>
   </div>
 </div>
@@ -73,7 +73,7 @@ nav_order: 2
   </div>
   <div style="flex: 1;">
     <p>
-      To be filled.
+       Ruixin Zhang is a third-year graduate student in Psychology at Beijing Normal University. Her research focuses on adolescent development, with an emphasis on understanding how biological maturation, social contexts, and psychological processes interact to shape adolescents' adjustment. Her current interests include pubertal development, health-risk behaviors, school engagement, and the role of adaptive beliefs (e.g., mindsets) in promoting positive adolescent development.
     </p>
   </div>
 </div>
@@ -88,7 +88,7 @@ nav_order: 2
   </div>
   <div style="flex: 1;">
     <p>
-      Yun Zeng is a first-year master’s student in Psychology at Beijing Normal University. She received a B.S. in Materials Chemistry from Heilongjiang University in 2024. Broadly, she is interested in how appearance-based inequality shapes mental health, particularly through social evaluation, discrimination, and interpersonal experiences.
+      Yun Zeng is a second-year master’s student in Psychology at Beijing Normal University. She received a B.S. in Materials Chemistry from Heilongjiang University in 2024. Broadly, she is interested in how appearance-based inequality shapes mental health, particularly through social evaluation, discrimination, and interpersonal experiences.
     </p>
   </div>
 </div>
@@ -120,7 +120,7 @@ nav_order: 2
   </div>
   <div style="flex: 1;">
     <p>
-      Sen Liu is currently working as a research assistant in PEAR Lab. He received a B.S. in Psychology from Beijing Normal University in 2025. His research focuses on gendered experiences and their associations with mental health in adolescents. Specifically, he is interested in how gender discrimination experiences and gender-related attitudes shape mental health disparities across adolescents of different genders.
+      Sen Liu is currently working as a research assistant in the PEAR Lab. He received a B.S. in Psychology from Beijing Normal University in 2025. His research focuses on adolescents' gendered experiences and their influences on mental health. Specifically, he is interested in how gender discrimination experiences, gender-related attitudes and other gender-inequality related factors shape mental health disparities across adolescents of different genders.
     </p>
   </div>
 </div>
@@ -199,6 +199,14 @@ nav_order: 2
          style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;"
          alt="Xi Yin">
     <h4 style="font-size: 1em; margin-top: 10px;">Xi Yin (尹茜)</h4>
+  </div>
+
+  <!-- Ke Huang -->
+  <div style="width: 180px; text-align: center;">
+    <img src="{{ '/assets/img/ke_huang.jpg' | relative_url }}"
+         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;"
+         alt="Ke Huang">
+    <h4 style="font-size: 1em; margin-top: 10px;">Ke Huang (黄可)</h4>
   </div>
 
   </div>
