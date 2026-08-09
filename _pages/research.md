@@ -3,9 +3,10 @@
 layout: page
 title: Research
 permalink: /research/
+nav:true
+nav_order:2
 
 ---
-# Research
 
 The Puberty, Environment, and Adolescent Resilience (PEAR) Lab investigates how biological development and social environments interact to shape adolescent mental health, learning, and resilience. Our research combines developmental psychology, epidemiology, and data science to understand developmental processes and identify opportunities for promoting healthy development.
 
