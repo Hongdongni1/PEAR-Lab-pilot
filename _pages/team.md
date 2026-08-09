@@ -12,7 +12,7 @@ nav_order: 2
     <img src="{{ '/assets/img/li_niu.jpg' | relative_url }}"
          style="width: 220px; height: 220px; object-fit: cover; border-radius: 50%" 
          alt="Li Niu">
-    <h3>Li Niu (牛莉), Ph.D.</h3>
+    <h4 style="margin-top: 12px; margin-bottom: 0;">Li Niu (牛莉), Ph.D.</h4>
   </div>
   <div style="flex: 1;">
     <p>
@@ -39,7 +39,7 @@ nav_order: 2
     <img src="{{ '/assets/img/jiayi_yang.jpg' | relative_url }}"
          style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%"
          alt="Jiayi Yang">
-        <h3>Jiayi Yang (杨嘉翌), M.A.</h3>
+    <h4 style="margin-top: 12px; margin-bottom: 0;">Jiayi Yang (杨嘉翌), M.A.</h4>
   </div>
   <div style="flex: 1;">
     <p>
@@ -51,7 +51,7 @@ nav_order: 2
 <!-- Qing Zhao -->
 <div style="display: flex; align-items: center; gap: 30px; margin-bottom: 40px;">
   <div style="flex: 0 0 180px;">
-    <img src="{{ '/assets/img/jiayi_yang.jpg' | relative_url }}"
+    <img src="{{ '/assets/img/lisha_yu.jpg' | relative_url }}"
          style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%"
          alt="Jiayi Yang">
         <h3>Jiayi Yang (杨嘉翌), M.A.</h3>
@@ -127,66 +127,147 @@ nav_order: 2
 
 
 ### Master of Applied Psychology (MAP) Students
+<div style="display: flex; flex-wrap: wrap; gap: 35px; margin-bottom: 40px;">
+
 <!-- Lining Ren -->
-<div style="display: flex; align-items: center; gap: 30px; margin-bottom: 40px;">
-  <div style="flex: 0 0 180px;">
-    <img src="{{ '/assets/img/jiayi_yang.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%"
-         alt="Jiayi Yang">
-        <h3>Jiayi Yang (杨嘉翌), M.A.</h3>
+  <div style="width: 180px; text-align: center;">
+    <img src="{{ '/assets/img/lining_ren.jpg' | relative_url }}"
+         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;"
+         alt="Lining Ren">
+    <h4 style="margin-top: 10px; margin-bottom: 4px;">Lining Ren (任丽宁)</h4>
+    <div style="font-size: 0.9em; color: #888;">
+      Clinical and Counseling Psychology (2027)
+    </div>
   </div>
-  <div style="flex: 1;">
-    <p>
-      Jiayi Yang is a first-year Ph.D. student at Beijing Normal University. She received a B.S. in Psychology from Beijing Forestry University in 2024 and an M.A. in Education from Beijing Normal University in 2026. Broadly, her research focuses on adolescent development and mental health, with particular interest in the roles of pubertal experiences and family and school contexts in shaping adjustment and positive development.
-    </p>
-  </div>
-</div>
+
 
 <!-- Liang Zheng -->
-<div style="display: flex; align-items: center; gap: 30px; margin-bottom: 40px;">
-  <div style="flex: 0 0 180px;">
-    <img src="{{ '/assets/img/jiayi_yang.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%"
-         alt="Jiayi Yang">
-        <h3>Jiayi Yang (杨嘉翌), M.A.</h3>
+  <div style="width: 180px; text-align: center;">
+    <img src="{{ '/assets/img/lining_ren.jpg' | relative_url }}"
+         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;"
+         alt="Lining Ren">
+    <h4 style="margin-top: 10px; margin-bottom: 4px;">Lining Ren (任丽宁)</h4>
+    <div style="font-size: 0.9em; color: #888;">
+      Clinical and Counseling Psychology (2027)
+    </div>
   </div>
-  <div style="flex: 1;">
-    <p>
-      Jiayi Yang is a first-year Ph.D. student at Beijing Normal University. She received a B.S. in Psychology from Beijing Forestry University in 2024 and an M.A. in Education from Beijing Normal University in 2026. Broadly, her research focuses on adolescent development and mental health, with particular interest in the roles of pubertal experiences and family and school contexts in shaping adjustment and positive development.
-    </p>
-  </div>
-</div>
 
 <!-- Jianwen He -->
-<div style="display: flex; align-items: center; gap: 30px; margin-bottom: 40px;">
-  <div style="flex: 0 0 180px;">
-    <img src="{{ '/assets/img/jiayi_yang.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%"
-         alt="Jiayi Yang">
-        <h3>Jiayi Yang (杨嘉翌), M.A.</h3>
+  <div style="width: 180px; text-align: center;">
+    <img src="{{ '/assets/img/lining_ren.jpg' | relative_url }}"
+         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;"
+         alt="Lining Ren">
+    <h4 style="margin-top: 10px; margin-bottom: 4px;">Lining Ren (任丽宁)</h4>
+    <div style="font-size: 0.9em; color: #888;">
+      Clinical and Counseling Psychology (2027)
+    </div>
   </div>
-  <div style="flex: 1;">
-    <p>
-      Jiayi Yang is a first-year Ph.D. student at Beijing Normal University. She received a B.S. in Psychology from Beijing Forestry University in 2024 and an M.A. in Education from Beijing Normal University in 2026. Broadly, her research focuses on adolescent development and mental health, with particular interest in the roles of pubertal experiences and family and school contexts in shaping adjustment and positive development.
-    </p>
+  
   </div>
-</div>
 
 
 ### Undergraduate Research Assistants
+<div style="display: flex; flex-wrap: wrap; gap: 35px; margin-bottom: 40px;">
+<!-- name -->
+  <div style="width: 180px; text-align: center;">
+    <img src="{{ '/assets/img/undergraduate_name.jpg' | relative_url }}"
+         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;"
+         alt="Undergraduate Research Assistant">
+    <h4 style="margin-top: 10px; margin-bottom: 0;">Name</h4>
+  </div>
+
+  <!-- name -->
+  <div style="width: 180px; text-align: center;">
+    <img src="{{ '/assets/img/undergraduate_name.jpg' | relative_url }}"
+         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;"
+         alt="Undergraduate Research Assistant">
+    <h4 style="margin-top: 10px; margin-bottom: 0;">Name</h4>
+  </div>
+
+  </div>
 
 
 
 ## Lab Alumni
 
 ### 2026 Graduates
+<div style="display: flex; flex-wrap: wrap; gap: 35px; margin-bottom: 40px;">
+<!-- Guanheng Ren -->
+  <div style="width: 180px; text-align: center;">
+    <img src="{{ '/assets/img/alumni_name.jpg' | relative_url }}"
+         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;"
+         alt="Alumni Name">
+    <h4 style="margin-top: 10px; margin-bottom: 4px;">Name</h4>
+    <div style="font-size: 0.9em; color: #888;">
+      Clinical and Counseling Psychology (2027)
+    </div>
+  </div>
+
+  <!-- Guanheng Ren -->
+  <div style="width: 180px; text-align: center;">
+    <img src="{{ '/assets/img/alumni_name.jpg' | relative_url }}"
+         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;"
+         alt="Alumni Name">
+    <h4 style="margin-top: 10px; margin-bottom: 4px;">Name</h4>
+    <div style="font-size: 0.9em; color: #888;">
+      Clinical and Counseling Psychology (2027)
+    </div>
+  </div>
+
+  </div>
 
 
 
 ### 2025 Graduates
+<div style="display: flex; flex-wrap: wrap; gap: 35px; margin-bottom: 40px;">
+<!-- Guanheng Ren -->
+  <div style="width: 180px; text-align: center;">
+    <img src="{{ '/assets/img/alumni_name.jpg' | relative_url }}"
+         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;"
+         alt="Alumni Name">
+    <h4 style="margin-top: 10px; margin-bottom: 4px;">Name</h4>
+    <div style="font-size: 0.9em; color: #888;">
+      Clinical and Counseling Psychology (2027)
+    </div>
+  </div>
 
+  <!-- Guanheng Ren -->
+  <div style="width: 180px; text-align: center;">
+    <img src="{{ '/assets/img/alumni_name.jpg' | relative_url }}"
+         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;"
+         alt="Alumni Name">
+    <h4 style="margin-top: 10px; margin-bottom: 4px;">Name</h4>
+    <div style="font-size: 0.9em; color: #888;">
+      Clinical and Counseling Psychology (2027)
+    </div>
+  </div>
+
+  </div>
 
 
 ### 2024 Graduates
+<div style="display: flex; flex-wrap: wrap; gap: 35px; margin-bottom: 40px;">
+<!-- Guanheng Ren -->
+  <div style="width: 180px; text-align: center;">
+    <img src="{{ '/assets/img/alumni_name.jpg' | relative_url }}"
+         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;"
+         alt="Alumni Name">
+    <h4 style="margin-top: 10px; margin-bottom: 4px;">Name</h4>
+    <div style="font-size: 0.9em; color: #888;">
+      Clinical and Counseling Psychology (2027)
+    </div>
+  </div>
 
+  <!-- Guanheng Ren -->
+  <div style="width: 180px; text-align: center;">
+    <img src="{{ '/assets/img/alumni_name.jpg' | relative_url }}"
+         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;"
+         alt="Alumni Name">
+    <h4 style="margin-top: 10px; margin-bottom: 4px;">Name</h4>
+    <div style="font-size: 0.9em; color: #888;">
+      Clinical and Counseling Psychology (2027)
+    </div>
+  </div>
+
+  </div>
 
