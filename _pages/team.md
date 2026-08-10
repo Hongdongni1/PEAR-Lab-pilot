@@ -10,7 +10,7 @@ nav_order: 2
 <div style="display: flex; align-items: center; gap: 30px; margin-bottom: 50px;">
   <div style="flex: 0 0 220px;">
     <img src="{{ '/assets/img/li_niu.jpg' | relative_url }}"
-         style="width: 220px; height: 220px; object-fit: cover; object-position: 50% 50%; border-radius: 50%" 
+         style="width: 220px; height: 220px; object-fit: cover; object-position: 50% 40%; border-radius: 50%" 
          alt="Li Niu">
     <h4 style="margin-top: 12px; margin-bottom: 0;">Li Niu (牛莉), Ph.D.</h4>
   </div>
@@ -131,8 +131,8 @@ nav_order: 2
 
 <!-- Zhen Wang -->
   <div style="width: 180px; text-align: center;">
-    <img src="{{ '/assets/img/zhen_wag.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover;object-position: 50% 50%; border-radius: 50%;"
+    <img src="{{ '/assets/img/zhen_wang.jpg' | relative_url }}"
+         style="width: 180px; height: 180px; object-fit: cover;object-position: 60% 40%; border-radius: 50%;"
          alt="Zhen Wang">
     <h4 style="font-size: 1em; margin-top: 10px;">Zhen Wang (旺珍)</h4>
     <div style="font-size: 0.9em; color: #888;">
@@ -165,7 +165,7 @@ nav_order: 2
 
 <!-- Jianwen He -->
   <div style="width: 180px; text-align: center;">
-    <img src="{{ '/assets/img/jiwanwen_he.jpg' | relative_url }}"
+    <img src="{{ '/assets/img/jianwen_he.jpg' | relative_url }}"
          style="width: 180px; height: 180px; object-fit: cover; object-position: 50% 50%;border-radius: 50%;"
          alt="Jianwen He">
     <h4 style="font-size: 1em; margin-top: 10px;">Jianwen He (贺建文)</h4>
@@ -199,7 +199,7 @@ nav_order: 2
   <!-- Hao Zhang -->
   <div style="width: 180px; text-align: center;">
     <img src="{{ '/assets/img/hao_zhang.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover; object-position: 50% 50%;border-radius: 50%;"
+         style="width: 180px; height: 180px; object-fit: cover; object-position: 40% 50%;border-radius: 50%;"
          alt="Hao Zhang">
     <h4 style="font-size: 1em; margin-top: 10px;">Hao Zhang (张好)</h4>
   </div>
@@ -267,7 +267,7 @@ nav_order: 2
 <!-- Yilin Yan -->
   <div style="width: 180px; text-align: center;">
     <img src="{{ '/assets/img/yilin_yan.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover; object-position: 50% 50%;border-radius: 50%;"
+         style="width: 180px; height: 180px; object-fit: cover; object-position: 60% 50%;border-radius: 50%;"
          alt="Yilin Yan">
     <h4 style="font-size: 1em; margin-top: 10px;">Yilin Yan (闫熠林)</h4>
     <div style="font-size: 0.8em; color: #888;">
@@ -364,7 +364,7 @@ nav_order: 2
   <!-- Yun Chen -->
   <div style="width: 180px; text-align: center;">
     <img src="{{ '/assets/img/yun_chen.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover; object-position: 50% 50%;border-radius: 50%;"
+         style="width: 180px; height: 180px; object-fit: cover; object-position: 60% 50%;border-radius: 50%;"
          alt="Yun Chen">
     <h4 style="font-size: 1em; margin-top: 10px;">Yun Chen (陈云)</h4>
     <div style="font-size: 0.8em; color: #888;">
