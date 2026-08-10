@@ -108,6 +108,21 @@ nav_order: 2
   </div>
 </div>
 
+<!-- Zhen Wang -->
+<div style="display: flex; align-items: center; gap: 30px; margin-bottom: 40px;">
+  <div style="flex: 0 0 180px;">
+    <img src="{{ '/assets/img/zhen_wang.jpg' | relative_url }}"
+         style="width: 180px; height: 180px; object-fit: cover; object-position: 60% 40%;border-radius: 50%"
+         alt="Zhen Wang">
+    <h4 style="font-size: 1em; margin-top: 10px;">Zhen Wang (旺珍), B.S.</h4>
+  </div>
+  <div style="flex: 1;">
+    <p>
+      Zhen Wang is a first‑year graduate student in the Mental Health Education program at Beijing Normal University. She received her B.S. in Psychology from Beijing Normal University in 2026. Broadly, she is interested in adolescent development, with a focus on pubertal‑related developmental processes.
+    </p>
+  </div>
+</div>
+
 
 ### Staff
 <!-- Sen Liu -->
@@ -129,16 +144,6 @@ nav_order: 2
 ### Master of Applied Psychology (MAP) Students
 <div style="display: flex; flex-wrap: wrap; gap: 35px; margin-bottom: 40px;">
 
-<!-- Zhen Wang -->
-  <div style="width: 180px; text-align: center;">
-    <img src="{{ '/assets/img/zhen_wang.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover;object-position: 60% 40%; border-radius: 50%;"
-         alt="Zhen Wang">
-    <h4 style="font-size: 1em; margin-top: 10px;">Zhen Wang (旺珍)</h4>
-    <div style="font-size: 0.9em; color: #888;">
-      Clinical and Counseling Psychology (2027)
-    </div>
-  </div>
 
 <!-- Lining Ren -->
   <div style="width: 180px; text-align: center;">
