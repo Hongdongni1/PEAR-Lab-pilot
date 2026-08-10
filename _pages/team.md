@@ -10,7 +10,7 @@ nav_order: 2
 <div style="display: flex; align-items: center; gap: 30px; margin-bottom: 50px;">
   <div style="flex: 0 0 220px;">
     <img src="{{ '/assets/img/li_niu.jpg' | relative_url }}"
-         style="width: 220px; height: 220px; object-fit: contain; object-position: 50% 40%; border-radius: 50%" 
+         style="width: 220px; height: 220px; object-fit: cover; object-position: 50% 20%; border-radius: 50%" 
          alt="Li Niu">
     <h4 style="margin-top: 12px; margin-bottom: 0;">Li Niu (牛莉), Ph.D.</h4>
   </div>
@@ -369,7 +369,7 @@ nav_order: 2
   <!-- Yun Chen -->
   <div style="width: 180px; text-align: center;">
     <img src="{{ '/assets/img/yun_chen.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: contain; object-position: 60% 50%;border-radius: 50%;"
+         style="width: 180px; height: 180px; object-fit: contain; object-position: 80% 50%;border-radius: 50%;"
          alt="Yun Chen">
     <h4 style="font-size: 1em; margin-top: 10px;">Yun Chen (陈云)</h4>
     <div style="font-size: 0.8em; color: #888;">
