@@ -10,7 +10,7 @@ nav_order: 2
 <div style="display: flex; align-items: center; gap: 30px; margin-bottom: 50px;">
   <div style="flex: 0 0 220px;">
     <img src="{{ '/assets/img/li_niu.jpg' | relative_url }}"
-         style="width: 220px; height: 220px; object-fit: cover; border-radius: 50%" 
+         style="width: 220px; height: 220px; object-fit: cover; object-position: 50% 50%; border-radius: 50%" 
          alt="Li Niu">
     <h4 style="margin-top: 12px; margin-bottom: 0;">Li Niu (牛莉), Ph.D.</h4>
   </div>
@@ -37,13 +37,13 @@ nav_order: 2
 <div style="display: flex; align-items: center; gap: 30px; margin-bottom: 40px;">
   <div style="flex: 0 0 180px;">
     <img src="{{ '/assets/img/jiayi_yang.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%"
+         style="width: 180px; height: 180px; object-fit: cover;object-position: 50% 50%; border-radius: 50%"
          alt="Jiayi Yang">
     <h4 style="font-size: 1em; margin-top: 10px;">Jiayi Yang (杨嘉翌), M.A.</h4>
   </div>
   <div style="flex: 1;">
     <p>
-      Jiayi Yang is a first-year Ph.D. student at Beijing Normal University. She received a B.S. in Psychology from Beijing Forestry University in 2024 and an M.A. in Education from Beijing Normal University in 2026. Broadly, her research focuses on adolescent development and mental health, with particular interest in the roles of pubertal experiences and family and school contexts in shaping adjustment and positive development.
+      Jiayi Yang is a first-year Ph.D. student at Beijing Normal University. She received a B.S. in Psychology from Beijing Forestry University in 2024 and an M.A. in Education from Beijing Normal University in 2026. Broadly, her research focuses on adolescent development and mental health. Specifically, she is interested in pubertal changes and experiences, adolescents’ self-perceptions (e.g., body image and self-concept), family and school influences on adjustment, and the promotion of positive youth development.
     </p>
   </div>
 </div>
@@ -52,7 +52,7 @@ nav_order: 2
 <div style="display: flex; align-items: center; gap: 30px; margin-bottom: 40px;">
   <div style="flex: 0 0 180px;">
     <img src="{{ '/assets/img/qing_zhao.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%"
+         style="width: 180px; height: 180px; object-fit: cover;object-position: 50% 50%; border-radius: 50%"
          alt="Qing Zhao">
     <h4 style="font-size: 1em; margin-top: 10px;">Qing Zhao (赵晴), B.S./B.B.A.</h4>
   </div>
@@ -67,7 +67,7 @@ nav_order: 2
 <div style="display: flex; align-items: center; gap: 30px; margin-bottom: 40px;">
   <div style="flex: 0 0 180px;">
     <img src="{{ '/assets/img/ruixin_zhang.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%"
+         style="width: 180px; height: 180px; object-fit: cover;object-position: 50% 50%; border-radius: 50%"
          alt="Ruixin Zhang">
     <h4 style="font-size: 1em; margin-top: 10px;">Ruixin Zhang (张瑞欣), B.A.</h4>
   </div>
@@ -82,7 +82,7 @@ nav_order: 2
 <div style="display: flex; align-items: center; gap: 30px; margin-bottom: 40px;">
   <div style="flex: 0 0 180px;">
     <img src="{{ '/assets/img/yun_zeng.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%"
+         style="width: 180px; height: 180px; object-fit: cover; object-position: 50% 50%;border-radius: 50%"
          alt="Yun Zeng">
     <h4 style="font-size: 1em; margin-top: 10px;">Yun Zeng (曾韵), B.S.</h4>
   </div>
@@ -97,7 +97,7 @@ nav_order: 2
 <div style="display: flex; align-items: center; gap: 30px; margin-bottom: 40px;">
   <div style="flex: 0 0 180px;">
     <img src="{{ '/assets/img/wanning_dong.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%"
+         style="width: 180px; height: 180px; object-fit: cover; object-position: 50% 50%;border-radius: 50%"
          alt="Wanning Dong">
     <h4 style="font-size: 1em; margin-top: 10px;">Wanning Dong (董婉宁), B.B.A.</h4>
   </div>
@@ -114,7 +114,7 @@ nav_order: 2
 <div style="display: flex; align-items: center; gap: 30px; margin-bottom: 40px;">
   <div style="flex: 0 0 180px;">
     <img src="{{ '/assets/img/sen_liu.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%"
+         style="width: 180px; height: 180px; object-fit: cover; object-position: 50% 50%;border-radius: 50%"
          alt="Sen Liu">
     <h4 style="font-size: 1em; margin-top: 10px;">Sen Liu (刘森), B.S.</h4>
   </div>
@@ -129,10 +129,21 @@ nav_order: 2
 ### Master of Applied Psychology (MAP) Students
 <div style="display: flex; flex-wrap: wrap; gap: 35px; margin-bottom: 40px;">
 
+<!-- Zhen Wang -->
+  <div style="width: 180px; text-align: center;">
+    <img src="{{ '/assets/img/zhen_wag.jpg' | relative_url }}"
+         style="width: 180px; height: 180px; object-fit: cover;object-position: 50% 50%; border-radius: 50%;"
+         alt="Zhen Wang">
+    <h4 style="font-size: 1em; margin-top: 10px;">Zhen Wang (旺珍)</h4>
+    <div style="font-size: 0.9em; color: #888;">
+      Clinical and Counseling Psychology (2027)
+    </div>
+  </div>
+
 <!-- Lining Ren -->
   <div style="width: 180px; text-align: center;">
     <img src="{{ '/assets/img/lining_ren.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;"
+         style="width: 180px; height: 180px; object-fit: cover; object-position: 50% 50%;border-radius: 50%;"
          alt="Lining Ren">
     <h4 style="font-size: 1em; margin-top: 10px;">Lining Ren (任丽宁)</h4>
     <div style="font-size: 0.9em; color: #888;">
@@ -144,7 +155,7 @@ nav_order: 2
 <!-- Liang Zheng -->
   <div style="width: 180px; text-align: center;">
     <img src="{{ '/assets/img/liang_zheng.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;"
+         style="width: 180px; height: 180px; object-fit: cover; object-position: 50% 50%;border-radius: 50%;"
          alt="Liang Zheng">
     <h4 style="font-size: 1em; margin-top: 10px;">Liang Zheng (郑梁)</h4>
     <div style="font-size: 0.9em; color: #888;">
@@ -155,7 +166,7 @@ nav_order: 2
 <!-- Jianwen He -->
   <div style="width: 180px; text-align: center;">
     <img src="{{ '/assets/img/jiwanwen_he.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;"
+         style="width: 180px; height: 180px; object-fit: cover; object-position: 50% 50%;border-radius: 50%;"
          alt="Jianwen He">
     <h4 style="font-size: 1em; margin-top: 10px;">Jianwen He (贺建文)</h4>
     <div style="font-size: 0.9em; color: #888;">
@@ -169,18 +180,18 @@ nav_order: 2
 ### Undergraduate Research Assistants
 <div style="display: flex; flex-wrap: wrap; gap: 35px; margin-bottom: 40px;">
 
-  <!-- Lisha Yu -->
+  <!-- Rui Huang -->
   <div style="width: 180px; text-align: center;">
-    <img src="{{ '/assets/img/lisha_yu.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;"
-         alt="Lisha Yu">
-    <h4 style="font-size: 1em; margin-top: 10px;">Lisha Yu (余莉莎)</h4>
+    <img src="{{ '/assets/img/rui_huang.jpg' | relative_url }}"
+         style="width: 180px; height: 180px; object-fit: cover;object-position: 50% 50%; border-radius: 50%;"
+         alt="Rui Huang">
+    <h4 style="font-size: 1em; margin-top: 10px;">Rui Huang (黄锐)</h4>
   </div>
 
   <!-- Jiaqi Chen -->
   <div style="width: 180px; text-align: center;">
     <img src="{{ '/assets/img/jiaqi_chen.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;"
+         style="width: 180px; height: 180px; object-fit: cover; object-position: 50% 50%;border-radius: 50%;"
          alt="Jiaqi Chen">
     <h4 style="font-size: 1em; margin-top: 10px;">Jiaqi Chen (陈嘉祺)</h4>
   </div>
@@ -188,7 +199,7 @@ nav_order: 2
   <!-- Hao Zhang -->
   <div style="width: 180px; text-align: center;">
     <img src="{{ '/assets/img/hao_zhang.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;"
+         style="width: 180px; height: 180px; object-fit: cover; object-position: 50% 50%;border-radius: 50%;"
          alt="Hao Zhang">
     <h4 style="font-size: 1em; margin-top: 10px;">Hao Zhang (张好)</h4>
   </div>
@@ -196,7 +207,7 @@ nav_order: 2
   <!-- Xi Yin -->
   <div style="width: 180px; text-align: center;">
     <img src="{{ '/assets/img/xi_yin.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;"
+         style="width: 180px; height: 180px; object-fit: cover; object-position: 50% 50%;border-radius: 50%;"
          alt="Xi Yin">
     <h4 style="font-size: 1em; margin-top: 10px;">Xi Yin (尹茜)</h4>
   </div>
@@ -204,11 +215,27 @@ nav_order: 2
   <!-- Ke Huang -->
   <div style="width: 180px; text-align: center;">
     <img src="{{ '/assets/img/ke_huang.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;"
+         style="width: 180px; height: 180px; object-fit: cover; object-position: 50% 50%;border-radius: 50%;"
          alt="Ke Huang">
     <h4 style="font-size: 1em; margin-top: 10px;">Ke Huang (黄可)</h4>
   </div>
 
+  <!-- Lisha Yu -->
+  <div style="width: 180px; text-align: center;">
+    <img src="{{ '/assets/img/lisha_yu.jpg' | relative_url }}"
+         style="width: 180px; height: 180px; object-fit: cover;object-position: 50% 50%; border-radius: 50%;"
+         alt="Lisha Yu">
+    <h4 style="font-size: 1em; margin-top: 10px;">Lisha Yu (余莉莎)</h4>
+  </div>
+
+  <!-- Shuang Liu -->
+  <div style="width: 180px; text-align: center;">
+    <img src="{{ '/assets/img/shuang_liu.jpg' | relative_url }}"
+         style="width: 180px; height: 180px; object-fit: cover;object-position: 50% 50%; border-radius: 50%;"
+         alt="Shuang Liu">
+    <h4 style="font-size: 1em; margin-top: 10px;">Shuang Liu (刘爽)</h4>
+  </div>
+  
   </div>
 
 
@@ -221,52 +248,91 @@ nav_order: 2
   <!-- Guanheng Ren -->
   <div style="width: 180px; text-align: center;">
     <img src="{{ '/assets/img/guanheng_ren.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;"
+         style="width: 180px; height: 180px; object-fit: cover;object-position: 50% 50%; border-radius: 50%;"
          alt="Guanheng Ren">
     <h4 style="font-size: 1em; margin-top: 10px;">Guanhenng Ren (任冠衡)</h4>
     <div style="font-size: 0.8em; color: #888;">
-      B.S. in Psychology, Beijing Normal University
-      -
-      Ph.D. Program in Psychology at Pennsylvania State University (Gene Environment Interplay Across the Lifespan Lab)
+      <p>
+        B.S. in Psychology
+      </p>
+      <ul style="text-align: left; margin-top: 5px; padding-left: 20px;">
+      <li>
+        Ph.D. Program in Psychology at Pennsylvania State University
+        (Gene Environment Interplay Across the Lifespan Lab)
+      </li>
+      </ul>
     </div>
   </div>
   
 <!-- Yilin Yan -->
   <div style="width: 180px; text-align: center;">
     <img src="{{ '/assets/img/yilin_yan.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;"
+         style="width: 180px; height: 180px; object-fit: cover; object-position: 50% 50%;border-radius: 50%;"
          alt="Yilin Yan">
     <h4 style="font-size: 1em; margin-top: 10px;">Yilin Yan (闫熠林)</h4>
     <div style="font-size: 0.8em; color: #888;">
-      B.S. in Psychology, Beijing Normal University
-      -
-      To be filled
+      <p>
+        B.S. in Psychology
+      </p>
+      <ul style="text-align: left; margin-top: 5px; padding-left: 20px;">
+      <li>
+        Master Program in Psychology at University of Pennsylvania
+      </li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Minzhi Wu -->
+  <div style="width: 180px; text-align: center;">
+    <img src="{{ '/assets/img/minzhi_wu.jpg' | relative_url }}"
+         style="width: 180px; height: 180px; object-fit: cover;object-position: 50% 50%; border-radius: 50%;"
+         alt="Minzhi Wu">
+    <h4 style="font-size: 1em; margin-top: 10px;">Minzhi Wu (吴敏至)</h4>
+    <div style="font-size: 0.8em; color: #888;">
+      <p>
+        B.S. in Psychology
+      </p>
+      <ul style="text-align: left; margin-top: 5px; padding-left: 20px;">
+      <li>
+        To be fiiled
+      </li>
+      </ul>
     </div>
   </div>
 
 <!-- Xumeng Zhong -->
   <div style="width: 180px; text-align: center;">
     <img src="{{ '/assets/img/xumeng_zhong.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;"
+         style="width: 180px; height: 180px; object-fit: cover;object-position: 50% 50%; border-radius: 50%;"
          alt="Xumeng Zhong">
     <h4 style="font-size: 1em; margin-top: 10px;">Xumeng Zhong (钟旭萌)</h4>
     <div style="font-size: 0.8em; color: #888;">
-      B.S. in Psychology, Beijing Normal University
-      -
-      Psychological staff at a middle school
+      <p>
+        B.S. in Psychology
+      </p>
+      <ul style="text-align: left; margin-top: 5px; padding-left: 20px;">
+      <li>
+        Psychological staff at a middle school in Hefei
+      </li>
+      </ul>
     </div>
   </div>
 
   <!-- Xinyan Lv -->
   <div style="width: 180px; text-align: center;">
     <img src="{{ '/assets/img/xinyan_lv.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;"
+         style="width: 180px; height: 180px; object-fit: cover;object-position: 50% 50%; border-radius: 50%;"
          alt="Xinyan Lv">
     <h4 style="font-size: 1em; margin-top: 10px;">Xinyan Lv (吕欣妍)</h4>
     <div style="font-size: 0.8em; color: #888;">
-      B.S. in Psychology, Beijing Normal University
-      -
-      To be filled
+      <p>
+        B.S. in Psychology
+      </p>
+      <ul style="text-align: left; margin-top: 5px; padding-left: 20px;">
+      <li>
+        Psychological staff at a middle school in Xiamen
+      </li>
+      </ul>
     </div>
   </div>
 
@@ -280,26 +346,36 @@ nav_order: 2
 <!-- Sen Liu -->
   <div style="width: 180px; text-align: center;">
     <img src="{{ '/assets/img/sen_liu.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;"
+         style="width: 180px; height: 180px; object-fit: cover; object-position: 50% 50%;border-radius: 50%;"
          alt="Sen Liu">
     <h4 style="font-size: 1em; margin-top: 10px;">Sen Liu (刘森)</h4>
     <div style="font-size: 0.8em; color: #888;">
-      B.S. in Psychology, Beijing Normal University
-      -
-      Research assistant at Beijing Normal University
+      <p>
+        B.S. in Psychology
+      </p>
+      <ul style="text-align: left; margin-top: 5px; padding-left: 20px;">
+      <li>
+        Research assistant at Beijing Normal University
+      </li>
+      </ul>
     </div>
   </div>
 
   <!-- Yun Chen -->
   <div style="width: 180px; text-align: center;">
     <img src="{{ '/assets/img/yun_chen.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;"
+         style="width: 180px; height: 180px; object-fit: cover; object-position: 50% 50%;border-radius: 50%;"
          alt="Yun Chen">
     <h4 style="font-size: 1em; margin-top: 10px;">Yun Chen (陈云)</h4>
     <div style="font-size: 0.8em; color: #888;">
-      B.S. in Psychology, Beijing Normal University
-      -
-      Master program in Psychology at Beijing Normal University
+      <p>
+        B.S. in Psychology
+      </p>
+      <ul style="text-align: left; margin-top: 5px; padding-left: 20px;">
+      <li>
+        Master program in Psychology at Beijing Normal University
+      </li>
+      </ul>
     </div>
   </div>
 
@@ -312,13 +388,18 @@ nav_order: 2
   <!-- Zhiqian Zhang -->
   <div style="width: 180px; text-align: center;">
     <img src="{{ '/assets/img/zhiqian_zhang.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;"
+         style="width: 180px; height: 180px; object-fit: cover;object-position: 50% 50%; border-radius: 50%;"
          alt="Zhiqian Zhang">
     <h4 style="font-size: 1em; margin-top: 10px;">Zhiqian Zhang (张芷骞)</h4>
     <div style="font-size: 0.8em; color: #888;">
-      B.S. in Psychology, Beijing Normal University
-      -
-      Master program in Psychology at Beijing Normal University
+      <p>
+        B.S. in Psychology
+      </p>
+      <ul style="text-align: left; margin-top: 5px; padding-left: 20px;">
+      <li>
+        Master program in Psychology at Beijing Normal University
+      </li>
+      </ul>
     </div>
   </div>
 
