@@ -4,7 +4,7 @@
 layout: about
 title: Home
 permalink: / # indicates this page is the [Home] page
-subtitle: Puberty, Environment, and Adolescent Resilience
+subtitle: The Puberty, Environment, and Adolescent Resilience (PEAR) Lab
 
 
 profile:
@@ -31,7 +31,7 @@ latest_posts:
   
 ---
 
-## Lab Overview
+## Lab overview
 
 
 Welcome to the Puberty, Environment, and Adolescent Resilience (PEAR) Lab at Beijing Normal University! The PEAR Lab, led by **Dr. Li Niu**, investigates how biological development and social environments jointly shape adolescent mental health, learning, and well-being.
