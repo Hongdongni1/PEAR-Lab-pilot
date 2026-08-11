@@ -12,9 +12,10 @@ profile:
   image: lab_logo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+   <div style="font-size: 1em; color: inherit; font-family: inherit; line-height: 1.5;">
     <p>Faculty of Psychology</p>
     <p>Beijing Normal University</p>
-    <p>Beijing, China</p>
+   </div>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page (e.g., google scholar, Researchgate, ORCID)
