@@ -10,7 +10,7 @@ nav_order: 2
 <div style="display: flex; align-items: center; gap: 30px; margin-bottom: 50px;">
   <div style="flex: 0 0 220px;">
     <img src="{{ '/assets/img/li_niu.jpg' | relative_url }}"
-         style="width: 220px; height: 220px; object-fit: cover; object-position: 50% 20%; border-radius: 50%" 
+         style="width: 220px; height: 220px; object-fit: cover; object-position: 50% 50%; border-radius: 50%" 
          alt="Li Niu">
     <h4 style="margin-top: 12px; margin-bottom: 0;">Li Niu (牛莉), Ph.D.</h4>
   </div>
@@ -148,6 +148,7 @@ nav_order: 2
 <!-- Lining Ren -->
   <div style="width: 180px; text-align: center;">
     <img src="{{ '/assets/img/lining_ren.jpg' | relative_url }}"
+       onerror="this.onerror=null; this.src='{{ '/assets/img/pear.jpg' | relative_url }}';"
          style="width: 180px; height: 180px; object-fit: cover; object-position: 50% 50%;border-radius: 50%;"
          alt="Lining Ren">
     <h4 style="font-size: 1em; margin-top: 10px;">Lining Ren (任丽宁)</h4>
@@ -196,7 +197,7 @@ nav_order: 2
   <!-- Jiaqi Chen -->
   <div style="width: 180px; text-align: center;">
     <img src="{{ '/assets/img/jiaqi_chen.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover; object-position: 50% 50%;border-radius: 50%;"
+         style="width: 180px; height: 180px; object-fit: cover; object-position: 70% 50%;border-radius: 50%;"
          alt="Jiaqi Chen">
     <h4 style="font-size: 1em; margin-top: 10px;">Jiaqi Chen (陈嘉祺)</h4>
   </div>
@@ -212,7 +213,7 @@ nav_order: 2
   <!-- Xi Yin -->
   <div style="width: 180px; text-align: center;">
     <img src="{{ '/assets/img/xi_yin.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover; object-position: 50% 50%;border-radius: 50%;"
+         style="width: 180px; height: 180px; object-fit: cover; object-position: 30% 50%;border-radius: 50%;"
          alt="Xi Yin">
     <h4 style="font-size: 1em; margin-top: 10px;">Xi Yin (尹茜)</h4>
   </div>
@@ -228,7 +229,7 @@ nav_order: 2
   <!-- Lisha Yu -->
   <div style="width: 180px; text-align: center;">
     <img src="{{ '/assets/img/lisha_yu.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover;object-position: 50% 50%; border-radius: 50%;"
+         style="width: 180px; height: 180px; object-fit: cover; object-position: 7 0% 50%; border-radius: 50%;"
          alt="Lisha Yu">
     <h4 style="font-size: 1em; margin-top: 10px;">Lisha Yu (余莉莎)</h4>
   </div>
@@ -272,7 +273,7 @@ nav_order: 2
 <!-- Yilin Yan -->
   <div style="width: 180px; text-align: center;">
     <img src="{{ '/assets/img/yilin_yan.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover; object-position: 60% 50%;border-radius: 50%;"
+         style="width: 180px; height: 180px; object-fit: cover; object-position: 70% 50%;border-radius: 50%;"
          alt="Yilin Yan">
     <h4 style="font-size: 1em; margin-top: 10px;">Yilin Yan (闫熠林)</h4>
     <div style="font-size: 0.8em; color: #888;">
@@ -290,6 +291,7 @@ nav_order: 2
   <!-- Minzhi Wu -->
   <div style="width: 180px; text-align: center;">
     <img src="{{ '/assets/img/minzhi_wu.jpg' | relative_url }}"
+       onerror="this.onerror=null; this.src='{{ '/assets/img/pear.jpg' | relative_url }}';"
          style="width: 180px; height: 180px; object-fit: cover;object-position: 50% 50%; border-radius: 50%;"
          alt="Minzhi Wu">
     <h4 style="font-size: 1em; margin-top: 10px;">Minzhi Wu (吴敏至)</h4>
@@ -326,7 +328,7 @@ nav_order: 2
   <!-- Xinyan Lv -->
   <div style="width: 180px; text-align: center;">
     <img src="{{ '/assets/img/xinyan_lv.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover;object-position: 50% 50%; border-radius: 50%;"
+         style="width: 180px; height: 180px; object-fit: cover; object-position: 30% 50%; border-radius: 50%;"
          alt="Xinyan Lv">
     <h4 style="font-size: 1em; margin-top: 10px;">Xinyan Lv (吕欣妍)</h4>
     <div style="font-size: 0.8em; color: #888;">
