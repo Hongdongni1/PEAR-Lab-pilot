@@ -22,7 +22,6 @@ social: false # includes social icons at the bottom of the page (e.g., google sc
 
 announcements:
   enabled: true # includes a list of news items
-  title: News
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
