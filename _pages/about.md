@@ -12,7 +12,7 @@ profile:
   image: lab_logo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-   <div style="font-size: 1em; color: inherit; font-family: inherit; line-height: 1.5;">
+   <div style="font-size: 1em; color: inherit; font-family: inherit; line-height: 1.5; text-align: center">
     <p>Faculty of Psychology</p>
     <p>Beijing Normal University</p>
    </div>
