@@ -256,7 +256,7 @@ nav_order: 2
     <img src="{{ '/assets/img/guanheng_ren.jpg' | relative_url }}"
          style="width: 180px; height: 180px; object-fit: cover;object-position: 50% 50%; border-radius: 50%;"
          alt="Guanheng Ren">
-    <h4 style="font-size: 1em; margin-top: 10px;">Guanhenng Ren (任冠衡)</h4>
+    <h4 style="font-size: 1em; margin-top: 10px;">Guanheng Ren (任冠衡)</h4>
     <div style="font-size: 0.8em; color: #888;">
       <p>
         B.S. in Psychology
