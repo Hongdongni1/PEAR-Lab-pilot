@@ -112,7 +112,7 @@ nav_order: 2
 <div style="display: flex; align-items: center; gap: 30px; margin-bottom: 40px;">
   <div style="flex: 0 0 180px;">
     <img src="{{ '/assets/img/zhen_wang.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: cover; object-position: 60% 40%;border-radius: 50%"
+         style="width: 180px; height: 180px; object-fit: cover; object-position: 50% 50%;border-radius: 50%"
          alt="Zhen Wang">
     <h4 style="font-size: 1em; margin-top: 10px;">Zhen Wang (旺珍), B.S.</h4>
   </div>
@@ -301,7 +301,7 @@ nav_order: 2
       </p>
       <ul style="text-align: left; margin-top: 5px; padding-left: 20px;">
       <li>
-        To be fiiled
+        To be updated
       </li>
       </ul>
     </div>
@@ -371,7 +371,7 @@ nav_order: 2
   <!-- Yun Chen -->
   <div style="width: 180px; text-align: center;">
     <img src="{{ '/assets/img/yun_chen.jpg' | relative_url }}"
-         style="width: 180px; height: 180px; object-fit: contain; object-position: 80% 50%;border-radius: 50%;"
+         style="width: 180px; height: 180px; object-fit: contain; object-position: 50% 50%;border-radius: 50%;"
          alt="Yun Chen">
     <h4 style="font-size: 1em; margin-top: 10px;">Yun Chen (陈云)</h4>
     <div style="font-size: 0.8em; color: #888;">
